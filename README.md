@@ -1,4 +1,4 @@
-# Cem Tutum's Portfolio
+# Portfolio
 
 ![Slide08](assets/slide08.jpg)
 
