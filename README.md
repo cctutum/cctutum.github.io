@@ -1,5 +1,7 @@
 # Portfolio
 
+![Slide01](assets/slide01.jpg)
+
 ![Slide08](assets/slide08.jpg)
 
 ![Slide09](assets/slide09.jpg)
