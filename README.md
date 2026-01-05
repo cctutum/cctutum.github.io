@@ -1,5 +1,4 @@
-# cctutum.github.io
-Cem Tutum's Portfolio
+# Cem Tutum's Portfolio
 
 ![Slide08](assets/slide08.jpg)
 
